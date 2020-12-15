@@ -6,6 +6,7 @@ public class AnotherClass {
         int b=3;
 
         System.out.println("yavuz");
+        System.out.println("yav");
 
     }
 }
